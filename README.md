@@ -84,42 +84,24 @@ I specialize in architecting and deploying **production-grade AI systems** that 
 
 ## Certifications & Credentials
 
-### **Generative AI & LLM Certifications**
-- **Databricks Generative AI Fundamentals** 
-- **Databricks Machine Learning Operations (MLOps)**
-- **DeepLearning.AI ChatGPT Prompt Engineering for Developers**
-- **Microsoft Azure OpenAI Service**
-- **DeepLearning.AI Red Teaming LLM Applications**
-- **Google Generative AI Fundamentals**
-- **Google Introduction to Generative AI**
-- **Google Introduction to Large Language Models**
+| **Generative AI & LLM** | **Cloud & Infrastructure** | **Data Science & ML** |
+|-------------------------|---------------------------|----------------------|
+| • Databricks Generative AI Fundamentals | • AWS Certified Machine Learning – Specialty | • DeepLearning.AI Supervised Machine Learning |
+| • Databricks Machine Learning Operations (MLOps) | • AWS Certified Solutions Architect | • Scaler EDA and Data Visualization |
+| • DeepLearning.AI ChatGPT Prompt Engineering | • AWS Certified Cloud Practitioner | • IBM Data Engineering Specialization |
+| • Microsoft Azure OpenAI Service | • AWS Academy Data Engineering | • IBM Python for Data Science, AI & Development |
+| • DeepLearning.AI Red Teaming LLM Applications | | • IBM What is Data Science? |
+| • Google Generative AI Fundamentals | | • IBM Data Science Orientation |
+| • Google Introduction to Generative AI | | |
+| • Google Introduction to Large Language Models | | |
 
-### **Cloud & Infrastructure Certifications**
-- **AWS Certified Machine Learning – Specialty**
-- **AWS Certified Solutions Architect**
-- **AWS Certified Cloud Practitioner**
-- **AWS Academy Data Engineering**
-
-### **Data Science & ML Certifications**
-- **DeepLearning.AI Supervised Machine Learning: Regression and Classification**
-- **Scaler EDA and Data Visualization** 
-- **IBM Data Engineering Specialization** 
-- **IBM Python for Data Science, AI & Development**
-- **IBM What is Data Science?**
-- **IBM Data Science Orientation**
-
-### **Database & System Administration**
-- **Neo4j Fundamentals**
-- **IBM Linux and Shell Scripting** 
-- **IBM Relational Database Administration** 
-- **Udemy Complete Data Science Bootcamp**
-- **Udemy Beginner to Advanced PL/SQL**
-
-### **Development & Tools**
-- **Udemy Introduction to HTML Web Development**
-- **Great Learning Python for Beginners-Live**
-- **Udemy Learn Complete Python In Simple Way**
-- **Udemy Microsoft Power BI Desktop for Business Intelligence**
+| **Database & System Administration** | **Development & Tools** |
+|-------------------------------------|------------------------|
+| • Neo4j Fundamentals | • Udemy Introduction to HTML Web Development |
+| • IBM Linux and Shell Scripting | • Great Learning Python for Beginners-Live |
+| • IBM Relational Database Administration | • Udemy Learn Complete Python In Simple Way |
+| • Udemy Complete Data Science Bootcamp | • Udemy Microsoft Power BI Desktop for Business Intelligence |
+| • Udemy Beginner to Advanced PL/SQL | |
 
 ---
 
