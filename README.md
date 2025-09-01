@@ -12,8 +12,8 @@
 
 ## Projects : 
 1. [AI Multi Agent Investment Strategist](https://github.com/alivnavc/AI-Multi-Agent-Investment-Strategist)
-2. [Multi Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Assistant) [Open Source - PyPI](https://pypi.org/project/microsoft-teams-mcp/)
-3. [Build MCP from Scratch for Microsoft Teams Meetings](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)
+2. [Multi Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Assistant) 
+3. [Build MCP from Scratch for Microsoft Teams Meetings](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)   --[Open Source - PyPI](https://pypi.org/project/microsoft-teams-mcp/)
 4. [Generate high quality Structured Syntehtic Data using CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
 
 ## What I Do
