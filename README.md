@@ -18,7 +18,7 @@ I specialize in architecting and deploying **production-grade AI systems** that 
 - **🔗 MCP & Agent Development**: Model Context Protocol, A2A protocols, Multi-agent workflows
 - **⚡ High-Performance Inference**: vLLM, NVIDIA Triton, TensorRT optimization
 - **🎤 Voice AI Systems**: Speech-to-speech, STT/TTS pipelines
-- **🔍 RAG Systems**: Retrieval-Augmented Generation with 79%+ accuracy
+- **🔍 RAG Systems**: Retrieval-Augmented Generation with 95%+ accuracy
 - **☁️ Cloud-Native AI**: AWS, Azure, Kubernetes, Docker deployments
 
 ---
