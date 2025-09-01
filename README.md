@@ -25,35 +25,18 @@ I specialize in architecting and deploying **production-grade AI systems** that 
 
 ## Tech Stack
 
-### **Generative AI & LLMs**
-OpenAI, LangChain, Hugging Face, PyTorch, TensorFlow, BERT, T5, LLaMA
-
-### **Cloud & Infrastructure**
-AWS, Azure, Docker, Kubernetes, SageMaker, Lambda
-
-### **DevOps & MLOps**
-GitHub Actions, CI/CD, MLflow, Grafana, Prometheus
-
-### **Databases & Vector Stores**
-MySQL, PostgreSQL, MongoDB, Redis, Pinecone, Qdrant, FAISS
-
-### **High-Performance Inference**
-vLLM, NVIDIA Triton, TensorRT, CUDA
-
-### **Data Processing & Analytics**
-Pandas, NumPy, PySpark, Databricks, Snowflake
-
-### **Visualization & Monitoring**
-Matplotlib, Seaborn, Power BI, Streamlit
-
-### **Programming & Frameworks**
-Python, FastAPI, Django, Flask, SQL
-
-### **Voice & Speech AI**
-Whisper, Deepgram, AWS Polly, Google STT
-
-### **Agent Development & Protocols**
-MCP, A2A, LangGraph, Google ADK
+| Category | Technologies |
+|----------|-------------|
+| **Generative AI & LLMs** | OpenAI, LangChain, Hugging Face, PyTorch, TensorFlow, BERT, T5, LLaMA |
+| **Cloud & Infrastructure** | AWS, Azure, Docker, Kubernetes, SageMaker, Lambda |
+| **DevOps & MLOps** | GitHub Actions, CI/CD, MLflow, Grafana, Prometheus |
+| **Databases & Vector Stores** | MySQL, PostgreSQL, MongoDB, Redis, Pinecone, Qdrant, FAISS |
+| **High-Performance Inference** | vLLM, NVIDIA Triton, TensorRT, CUDA |
+| **Data Processing & Analytics** | Pandas, NumPy, PySpark, Databricks, Snowflake |
+| **Visualization & Monitoring** | Matplotlib, Seaborn, Power BI, Streamlit |
+| **Programming & Frameworks** | Python, FastAPI, Django, Flask, SQL |
+| **Voice & Speech AI** | Whisper, Deepgram, AWS Polly, Google STT |
+| **Agent Development & Protocols** | MCP, A2A, LangGraph, Google ADK |
 
 ---
 
