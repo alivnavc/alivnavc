@@ -15,6 +15,7 @@
 2. [Multi Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Agent)
 3. [Build MCP from Scratch for Microsoft Teams Meetings](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)   --[Open Source - PyPI](https://pypi.org/project/microsoft-teams-mcp/)
 4. [Generate high quality Structured Syntehtic Data using CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
+5. [AI Financial News Assistant(RAG, Multi Agent, Langsmith, RAGAS Evaluation](https://github.com/alivnavc/AI-Financial-News-Assistant-RAG)
 
 ## What I Do
 
