@@ -15,8 +15,10 @@
 2. [Multi Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Agent)
 3. [Autonomous Multi Agent for Pentesting(SQLi) with RL-DPO Style](https://github.com/alivnavc/autonomous-pentest-SQLi--agent)
 4. [Build MCP from Scratch for Microsoft Teams Meetings](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)   --[Open Source - PyPI](https://pypi.org/project/microsoft-teams-mcp/)
-5. [Generate high quality Structured Syntehtic Data using CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
-6. [AI Financial News Assistant(RAG, Multi Agent, Langsmith, RAGAS Evaluation](https://github.com/alivnavc/AI-Financial-News-Assistant-RAG)
+   [![PyPI Downloads](https://static.pepy.tech/badge/microsoft-teams-mcp)](https://pepy.tech/projects/microsoft-teams-mcp)
+
+6. [Generate high quality Structured Syntehtic Data using CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
+7. [AI Financial News Assistant(RAG, Multi Agent, Langsmith, RAGAS Evaluation](https://github.com/alivnavc/AI-Financial-News-Assistant-RAG)
 
 ## What I Do
 
