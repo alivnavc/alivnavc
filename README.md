@@ -10,15 +10,17 @@
 
 ---
 
-## Projects : 
-1. [AI Multi Agent Investment Strategist](https://github.com/alivnavc/AI-Multi-Agent-Investment-Strategist)
-2. [Multi Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Agent)
-3. [Autonomous Multi Agent for Pentesting(SQLi) with RL-DPO Style](https://github.com/alivnavc/autonomous-pentest-SQLi--agent)
-4. [Build MCP from Scratch for Microsoft Teams Meetings](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)   --[Open Source - PyPI](https://pypi.org/project/microsoft-teams-mcp/)
-   [![PyPI Downloads](https://static.pepy.tech/badge/microsoft-teams-mcp)](https://pepy.tech/projects/microsoft-teams-mcp)
+## Projects
 
-6. [Generate high quality Structured Syntehtic Data using CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
-7. [AI Financial News Assistant(RAG, Multi Agent, Langsmith, RAGAS Evaluation](https://github.com/alivnavc/AI-Financial-News-Assistant-RAG)
+| # | Project | Highlights |
+|---|---------|-----------|
+| 1 | [AI Multi-Agent Investment Strategist](https://github.com/alivnavc/AI-Multi-Agent-Investment-Strategist) | Gemini 2.0 Flash · multi-factor risk scoring · S&P 500 sector mapping |
+| 2 | [Multi-Agent Travel Assistant with custom MCP](https://github.com/alivnavc/Gen-AI-Travel-Agent) | Agno agent · Multi-MCP · real-time flights, stays & maps |
+| 3 | [Autonomous Multi-Agent Pentesting (SQLi) — RL/DPO style](https://github.com/alivnavc/autonomous-pentest-SQLi--agent) | LangGraph · Claude · self-improving strategies via RL |
+| 4 | [Microsoft Teams Meetings MCP Server — built from scratch](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server) · [PyPI](https://pypi.org/project/microsoft-teams-mcp/) | FastMCP · Microsoft Graph API · Open Source [![PyPI Downloads](https://static.pepy.tech/badge/microsoft-teams-mcp)](https://pepy.tech/projects/microsoft-teams-mcp) |
+| 5 | [Flight Search MCP Server](https://github.com/alivnavc/Fligh-Search-MCP-Server) | Custom MCP · SerpAPI · real-time flight data for AI agents |
+| 6 | [Structured Synthetic Data Generation with CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN) | SDV/CTGAN · Streamlit · privacy-preserving tabular data |
+| 7 | [AI Financial News Assistant (RAG, Multi-Agent, RAGAS Eval)](https://github.com/alivnavc/AI-Financial-News-Assistant-RAG) | Qdrant · cross-encoder re-ranking · LangGraph · RAGAS |
 
 ## What I Do
 
@@ -37,7 +39,7 @@ I specialize in architecting and deploying **production-grade AI systems** that 
 
 | Category | Technologies |
 |----------|-------------|
-| **Generative AI & LLMs** | OpenAI, LangChain, Hugging Face, PyTorch, TensorFlow, BERT, T5, LLaMA |
+| **Generative AI & LLMs** | OpenAI (GPT-4o), Google Gemini, Anthropic Claude, LangChain, Hugging Face, PyTorch, TensorFlow, BERT, T5, LLaMA |
 | **Cloud & Infrastructure** | AWS, Azure, Docker, Kubernetes, SageMaker, Lambda |
 | **DevOps & MLOps** | GitHub Actions, CI/CD, MLflow, Grafana, Prometheus |
 | **Databases & Vector Stores** | MySQL, PostgreSQL, MongoDB, Redis, Pinecone, Qdrant, FAISS |
@@ -46,41 +48,12 @@ I specialize in architecting and deploying **production-grade AI systems** that 
 | **Visualization & Monitoring** | Matplotlib, Seaborn, Power BI, Streamlit |
 | **Programming & Frameworks** | Python, FastAPI, Django, Flask, SQL |
 | **Voice & Speech AI** | Whisper, Deepgram, AWS Polly, Google STT |
-| **Agent Development & Protocols** | MCP, A2A, LangGraph, Google ADK |
+| **Agent Development & Protocols** | MCP, FastMCP, A2A, LangGraph, Agno, Google ADK |
+| **RAG & Evaluation** | Qdrant, FAISS, Pinecone, Cross-Encoder Re-ranking, RAGAS, LangSmith |
+| **Synthetic Data** | SDV, CTGAN |
 
 ---
 
-##  Featured Projects
-
-###  [Gen-AI-Travel-Agent](https://github.com/alivnavc/Gen-AI-Travel-Agent)
-**Multi-MCP Integration Travel Planner** | Real-time flight search, Airbnb booking, Google Maps navigation
-- **Tech Stack**: Agno, OpenAI, SerpAPI, RAG, Multi-MCP Architecture
-- **Features**: Real-time flight data, accommodation booking, comprehensive itineraries
-- **Impact**: Seamless integration of custom and built-in MCP servers
-
-###  [Flight-Search-MCP-Server](https://github.com/alivnavc/Fligh-Search-MCP-Server)
-**Custom MCP Server for Flight Search** | Real-time flight data via Model Context Protocol
-- **Tech Stack**: Python, SerpAPI, MCP Protocol, FastAPI
-- **Features**: Flight search, airport information, price trends analysis
-- **Use Case**: Perfect for AI travel agents and planning applications
-
-###  [Microsoft-Teams-Meetings-MCP-Server](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server)
-**Teams Integration MCP Server** | Schedule and manage Teams meetings via Microsoft Graph API
-- **Tech Stack**: Python, Microsoft Graph API, JSON-RPC, Docker
-- **Features**: Scheduling, rescheduling, canceling, timezone-aware events
-- **Integration**: Seamless Teams calendar management
-
-###  [Synthetic-Data-Generation-CTGAN](https://github.com/alivnavc/Synthetic-Data-Generation-CTGAN)
-**CTGAN-based Synthetic Data Generator** | Generate synthetic tabular data while preserving patterns
-- **Tech Stack**: Streamlit, CTGAN, Pandas, NumPy
-- **Features**: Customizable synthetic data generation, data type preservation
-- **Use Case**: Data privacy, testing, and augmentation
-
----
-
-
-
----
 
 ##  Key Achievements
 
